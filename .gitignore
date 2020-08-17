@@ -1,0 +1,62 @@
+# build binary
+build/
+
+# purchase Asstes
+Assets/Graphic.meta
+Assets/Graphic/
+Assets/Sounds.meta
+Assets/Sounds/
+Assets/Fonts.meta
+Assets/Fonts/
+Assets/Frank_Katana.meta
+Assets/Frank_Katana/
+Assets/unity-chan!.meta
+Assets/unity-chan!/
+Assets/Samurai_Katana.meta
+Assets/Samurai_Katana/
+Assets/TextMesh*Pro/
+Assets/TextMesh*Pro.meta
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+.vs/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ============ #
+# for others   #
+# ============ #
+
+*.log #log files, for some plugins
+*.pyc #python bytecode cache, for some plugins.
+sysinfo.txt #Unity3D Generated File On Crash Reports
+
